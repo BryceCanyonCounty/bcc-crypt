@@ -12,8 +12,4 @@ server_script {
     'services/*.lua'
 }
 
-shared_script {
-    'config.lua'
-}
-
 version '1.0.0'

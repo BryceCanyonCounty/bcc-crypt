@@ -1,5 +1,4 @@
 exports('install', function()
-    print("INSTALLED!")
     return {
         uuid4 = UUID4,
         sha = SHA2,
