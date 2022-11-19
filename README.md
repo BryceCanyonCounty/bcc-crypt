@@ -11,6 +11,7 @@
     - SHA-3
     - BLAKE2
     - BLAKE3
+- ZLib Compression
 
 ## How to install
 * Download this repo
