@@ -28,4 +28,4 @@
 _All script credits will be listed at the top of each service file_
 
 ## Need More Support?
-- [Vorp Disord](https://discord.gg/DHGVAbCj7N)
+- [BCC Discord](https://discord.gg/cQMJaTqcqJ)
