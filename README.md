@@ -1,3 +1,5 @@
+⛔️ DEPRECATED: All features of this repo are now included and maintained within [BCC-Utils](https://github.com/BryceCanyonCounty/bcc-utils)⛔️
+
 # BCC Crypt
 > A RedM Cryptography and Hashing library for lua developers
 
